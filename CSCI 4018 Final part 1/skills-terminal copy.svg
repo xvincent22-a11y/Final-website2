@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Technical skills terminal illustration</title>
+  <desc id="desc">A terminal window with code, tools, and a gear.</desc>
+  <rect width="640" height="420" fill="#fbfff1"/>
+  <rect x="92" y="78" width="456" height="264" rx="18" fill="#26340b"/>
+  <rect x="92" y="78" width="456" height="52" rx="18" fill="#6c8b2b"/>
+  <circle cx="127" cy="104" r="9" fill="#edf6d6"/>
+  <circle cx="157" cy="104" r="9" fill="#edf6d6"/>
+  <circle cx="187" cy="104" r="9" fill="#edf6d6"/>
+  <path d="M164 187l-42 38 42 38M476 187l42 38-42 38" fill="none" stroke="#edf6d6" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M342 169l-50 126" fill="none" stroke="#b7d66a" stroke-width="14" stroke-linecap="round"/>
+  <rect x="226" y="172" width="76" height="16" rx="8" fill="#edf6d6"/>
+  <rect x="226" y="218" width="50" height="16" rx="8" fill="#edf6d6"/>
+  <rect x="354" y="264" width="76" height="16" rx="8" fill="#edf6d6"/>
+  <circle cx="487" cy="309" r="44" fill="#b7d66a"/>
+  <circle cx="487" cy="309" r="17" fill="#26340b"/>
+</svg>
